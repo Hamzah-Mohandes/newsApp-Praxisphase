@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">?attr/colorOnPrimaryContainer</color>
+    <color name="colorPrimaryDark">?attr/colorOnPrimaryContainer</color>
+    <color name="colorAccent">?android:attr/colorMultiSelectHighlight</color>
+    <color name="titleTextColor">#131214</color>
+    <color name="subTitleTextColor">#333233</color>
+    <color name="bgLineColor">#606470</color>
+    <color name="background">#dddddd</color>
+    <color name="card_color">#2e343d</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
